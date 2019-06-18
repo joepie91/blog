@@ -1,0 +1,242 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rust Embedded Working Group</title>
+        <link>https://rust-embedded.github.io/blog</link>
+        <description>Blog of the Embedded Rust Working Group
+</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://rust-embedded.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Embedded Rust in 2019</title>
+                <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/embedded-rust-in-2019/</link>
+                <guid>https://rust-embedded.github.io/blog/embedded-rust-in-2019/</guid>
+                <description>&lt;p&gt;It&#x27;s been a busy year for many of the members of the Embedded-WG this year, and we had a chance to catch up at OxidizeConf a few weeks ago. We discussed two main things, Moving off of Mozilla IRC, and our goals for (part of) 2019.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 17</title>
+                <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-17/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-17/</guid>
+                <description>&lt;p&gt;This is the seventeenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-17&#x2F;26551&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1109141455510097922&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;b47pl7&#x2F;embedded_wg_newsletter_17_the_embedded_rust&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 16</title>
+                <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-16/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-16/</guid>
+                <description>&lt;p&gt;This is the sixteenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-16&#x2F;25987&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1103416332786302977&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;ay4js3&#x2F;embedded_wg_newsletter_16_not_yet_awesome&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 15</title>
+                <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-15/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-15/</guid>
+                <description>&lt;p&gt;This is the fifteenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-15&#x2F;25481&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1098218372469268480&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;asohul&#x2F;embedded_wg_newsletter_15_ewg_all_hands_the&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>This Year in Embedded Rust</title>
+                <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/this-year-in-embedded-rust/</link>
+                <guid>https://rust-embedded.github.io/blog/this-year-in-embedded-rust/</guid>
+                <description>&lt;p&gt;This year the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; set out to build the solid foundation that the
+embedded Rust ecosystem requires to thrive. As we approach the date of the 2018
+edition release we reflect on our progress and share our achievements with you
+in this post.&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-wg-this-year-in-embedded-rust&#x2F;22263&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1062664608538918913&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9wz716&#x2F;the_embedded_wg_this_year_in_embedded_rust&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 14</title>
+                <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-14/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-14/</guid>
+                <description>&lt;p&gt;This is the fourteenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;This is a special &amp;quot;spotlight&amp;quot; edition of the newsletter, where we look at a few topics in a bit more detail. Let us know what you think of the new format, and if there is anything you&#x27;d like to see included in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;blog&#x2F;issues&#x2F;22&quot;&gt;the next newsletter&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-14&#x2F;21795&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1057222850787053568&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9smq6f&#x2F;embedded_wg_newsletter_14_spotlight_edition&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 13</title>
+                <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-13/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-13/</guid>
+                <description>&lt;p&gt;This is the thirteenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-13&#x2F;21137&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1049739952601395201&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9ms5jk&#x2F;embedded_wg_newsletter_13_industrial_io_bluetooth&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 12</title>
+                <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-12/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-12/</guid>
+                <description>&lt;p&gt;This is the twelfth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;users.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-12&#x2F;20749&quot;&gt;users.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1044930201925439490&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9j2620&#x2F;the_embedded_working_group_newsletter_12&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 11</title>
+                <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-11/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-11/</guid>
+                <description>&lt;p&gt;This is the eleventh newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;internals.rust-lang.org&#x2F;t&#x2F;the-embedded-working-group-newsletter-11&#x2F;8377&quot;&gt;internals.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1039055481946492928&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9eku70&#x2F;rust_embedded_working_group_newsletter_11_cortexr&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>PSA: Cortex-M Breakage (LLD as the default linker)</title>
+                <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/2018-08-2x-psa-cortex-m-breakage/</link>
+                <guid>https://rust-embedded.github.io/blog/2018-08-2x-psa-cortex-m-breakage/</guid>
+                <description>&lt;p&gt;The default linker for the 4 ARM Cortex-M targets listed below has changed from
+&lt;code&gt;arm-none-eabi-gcc&lt;&#x2F;code&gt; to &lt;code&gt;rust-lld&lt;&#x2F;code&gt; in the latest nightly.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;thumbv6m-none-eabi&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;thumbv7m-none-eabi&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;thumbv7em-none-eabi&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;thumbv7em-none-eabihf&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This will break the builds of &lt;em&gt;binaries&lt;&#x2F;em&gt; and &lt;em&gt;cdylibs&lt;&#x2F;em&gt; that were using the
+old default linker (&lt;code&gt;arm-none-eabi-gcc&lt;&#x2F;code&gt;) &lt;em&gt;and&lt;&#x2F;em&gt; additionally pass extra flags to
+the linker using any of these rustc flags: &lt;code&gt;-C link-arg&lt;&#x2F;code&gt;, &lt;code&gt;-C link-args&lt;&#x2F;code&gt;, &lt;code&gt;-Z pre-link-arg&lt;&#x2F;code&gt; or &lt;code&gt;-Z pre-link-args&lt;&#x2F;code&gt;. Building libraries (&lt;code&gt;rlib&lt;&#x2F;code&gt;s and
+&lt;code&gt;staticlib&lt;&#x2F;code&gt;s) is not affected by this change.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 10</title>
+                <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-10/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-10/</guid>
+                <description>&lt;p&gt;This is the tenth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+&lt;p&gt;Discuss on &lt;a href=&quot;https:&#x2F;&#x2F;internals.rust-lang.org&#x2F;t&#x2F;the-10th-embedded-wg-newsletter-and-a-new-blog&#x2F;8326&quot;&gt;internals.rust-lang.org&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;rustembedded&#x2F;status&#x2F;1034765727423717376&quot;&gt;on twitter&lt;&#x2F;a&gt;, or &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;rust&#x2F;comments&#x2F;9b8gry&#x2F;the_10th_embedded_wg_newsletter_and_a_new_blog&#x2F;&quot;&gt;on reddit&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 9</title>
+                <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-9/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-9/</guid>
+                <description>&lt;p&gt;This is the ninth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-embedded&#x2F;wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 8</title>
+                <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-8/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-8/</guid>
+                <description>&lt;p&gt;This is the eighth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 7</title>
+                <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-7/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-7/</guid>
+                <description>&lt;p&gt;This is the seventh newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 6</title>
+                <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-6/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-6/</guid>
+                <description>&lt;p&gt;This is the sixth newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 5</title>
+                <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-5/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-5/</guid>
+                <description>&lt;p&gt;This is the fifth bi-weekly newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Path Towards Stable</title>
+                <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/the-path-towards-stable/</link>
+                <guid>https://rust-embedded.github.io/blog/the-path-towards-stable/</guid>
+                <description>&lt;h2 id=&quot;cortex-m-library-development-now-possible-on-beta-and-the-path-towards-stable-embedded-rust&quot;&gt;Cortex-M library development now possible on beta and the path towards stable embedded Rust&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.27 = embedded (Cortex-M) &lt;em&gt;library&lt;&#x2F;em&gt; development on stable&lt;&#x2F;li&gt;
+&lt;li&gt;1.28 or 1.29 = embedded (Cortex-M) &lt;em&gt;application&lt;&#x2F;em&gt; development on stable&lt;&#x2F;li&gt;
+&lt;li&gt;We are making breaking changes in the ecosystem in order to move towards development on the
+stable channel&lt;&#x2F;li&gt;
+&lt;li&gt;If you are a crate maintainer &#x2F; author, make sure you test your crates with the new versions of
+&lt;code&gt;cortex-m&lt;&#x2F;code&gt; (and similar) on the current &lt;code&gt;beta&lt;&#x2F;code&gt; release of Rust&lt;&#x2F;li&gt;
+&lt;li&gt;If the latest version of a dependency doesn&#x27;t compile on &lt;code&gt;beta&lt;&#x2F;code&gt;, file an issue and&#x2F;or ping us on
+the #rust-embedded IRC channel&lt;&#x2F;li&gt;
+&lt;li&gt;Thanks for your patience!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;We are happy to announce that &lt;em&gt;library&lt;&#x2F;em&gt; development for the Cortex-M targets is now possible on the
+beta channel! :tada:&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 4</title>
+                <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-4/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-4/</guid>
+                <description>&lt;p&gt;This is the fourth bi-weekly newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 3</title>
+                <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-3/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-3/</guid>
+                <description>&lt;p&gt;This is the third bi-weekly newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 2</title>
+                <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-2/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-2/</guid>
+                <description>&lt;p&gt;This is the second bi-weekly newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt; where we highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>The Embedded Working Group Newsletter - 1</title>
+                <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+                <link>https://rust-embedded.github.io/blog/newsletter-1/</link>
+                <guid>https://rust-embedded.github.io/blog/newsletter-1/</guid>
+                <description>&lt;p&gt;This is the first newsletter of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang-nursery&#x2F;embedded-wg&quot;&gt;Embedded WG&lt;&#x2F;a&gt;! We will be releasing this newsletter on a bi-weekly basis, and we are looking to highlight new progress, celebrate cool projects, thank the community, and advertise projects that need help!&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
